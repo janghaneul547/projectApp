@@ -29,7 +29,7 @@
 	font-size:18px;
 	color:rgba(0,82,70,1);
 	}
-	.login>li>a>input{
+	.input{
 	border:0;
 	height:40px; width:20vw;
 	position:relative;
